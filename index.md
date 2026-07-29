@@ -8,7 +8,7 @@ The SRv6OPS Working Group at the IETF addresses the operational and deployment a
 
 ## 🏛️ Next Meeting
 
-The next hybrid SRv6OPS WG session will be at [IETF 126](https://www.ietf.org/meeting/126/) in Vienna from July 18-24.
+The next hybrid SRv6OPS WG session will be at [IETF 127](https://www.ietf.org/meeting/127/) in San Francisco from Nov 14-20.
 
 📢 **Are you an operator deploying SRv6? We’d love to hear from you!** 
 Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested in sharing your operational experience at a SRv6OPS Working Group session.
@@ -18,7 +18,8 @@ Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested
 | ⚙️ Operator    | 🎙️ Speaker        | 🎥 Video | 📄 Slide | 📅 IETF |
 |----------------|-------------------|----------|----------|----------|
 | Rakuten Mobile | Akash Agrawal | [▶️ Watch](https://youtu.be/QmQ8VO5ldKA?si=7wX5HBRrGFsevI-4&t=2177) | [📄 PDF](https://datatracker.ietf.org/meeting/120/materials/slides-120-srv6ops-23-rakuten-srv6-deployment-case-study-00)| [IETF120](https://datatracker.ietf.org/meeting/120/session/srv6ops)|
-| Deutsche Telekom | Nils Warnke | [▶️ Watch](https://youtu.be/HsoGR_8m2UM?si=dixBSEsIdNUkp-RV&t=476) | [📄 PDF](https://datatracker.ietf.org/meeting/123/materials/slides-123-srv6ops-21-advancing-deutsche-telekoms-traffic-engineering-for-srv6-01.pdf)|[IETF123](https://datatracker.ietf.org/meeting/123/session/srv6ops)|
+| Deutsche Telekom | Nicolai Leymann | [▶️ Watch](https://youtu.be/kxTId7do_y4?si=De2aHVk6lyfmq9Qb&t=288) | [📄 PDF](https://datatracker.ietf.org/meeting/126/materials/slides-126-srv6ops-21-dt-road-towards-srv6-00)|[IETF126](https://datatracker.ietf.org/meeting/126/session/srv6ops)|
+| | Nils Warnke | [▶️ Watch](https://youtu.be/HsoGR_8m2UM?si=dixBSEsIdNUkp-RV&t=476) | [📄 PDF](https://datatracker.ietf.org/meeting/123/materials/slides-123-srv6ops-21-advancing-deutsche-telekoms-traffic-engineering-for-srv6-01.pdf)|[IETF123](https://datatracker.ietf.org/meeting/123/session/srv6ops)|
 | Bell Canada | Daniel Bernier | [▶️ Watch](https://www.youtube.com/watch?v=RY76B-Vb4zc&t=1305s) | [📄 PDF](https://datatracker.ietf.org/meeting/124/materials/slides-124-srv6ops-22-srv6-as-a-catalyst-for-network-shift-01) |[IETF124](https://datatracker.ietf.org/meeting/124/session/srv6ops)|
 |  |  | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=w93aNVa8PtI96UOl&t=291) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-21-service-programming-00.pdf)|[IETF121](https://datatracker.ietf.org/meeting/121/session/srv6ops)|
 |  | Daniel Voyer | [▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=474_gJorhz5m7gbe&t=1209) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-bell-canada-03)|[IETF119](https://datatracker.ietf.org/meeting/119/session/srv6ops)|
@@ -30,7 +31,8 @@ Reach out to the [chairs](mailto:srv6ops-chairs@ietf.org) if you’re interested
 | Verizon | Nicklous Morris | [▶️ Watch](https://www.youtube.com/watch?v=RY76B-Vb4zc&t=218s) | [📄 PDF](https://datatracker.ietf.org/meeting/124/materials/slides-124-srv6ops-verizon-ietf-srv6-on-hosts-00)|[IETF124](https://datatracker.ietf.org/meeting/124/session/srv6ops)|
 |  | Luay Jalil | [▶️ Watch](https://youtu.be/QmQ8VO5ldKA?si=MKXcXVSD5gOU92n9&t=652) | [📄 PDF](https://datatracker.ietf.org/meeting/120/materials/slides-120-srv6ops-21-verizon-srv6-in-verizon-01)|[IETF120](https://datatracker.ietf.org/meeting/120/session/srv6ops)|
 |  | Gyan Mishra | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=1hHeO1AGCDzAcvDl&t=2994) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-24-srv6-dc-multi-pod-scenario-01.pdf)|[IETF121](https://datatracker.ietf.org/meeting/121/session/srv6ops)|
-| China Telecom  | Yongqing Zhu      | [▶️ Watch](https://youtu.be/2yzDrQEdAXU?si=XP3Z_k68J6kutQVQ&t=2015) | [📄 PDF](https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-22-srv6-practice-in-china-telecom-00.pdf) |[IETF122](https://datatracker.ietf.org/meeting/122/session/srv6ops)|
+| China Telecom  | Yongqing Zhu | [▶️ Watch](https://youtu.be/kxTId7do_y4?si=xEgun9YRhDbEEfXs&t=1187) | [📄 PDF](https://datatracker.ietf.org/meeting/126/materials/slides-126-srv6ops-22-practices-for-migrating-mpls-networks-to-srv6-00) |[IETF126](https://datatracker.ietf.org/meeting/126/session/srv6ops)|
+|  |   | [▶️ Watch](https://youtu.be/2yzDrQEdAXU?si=XP3Z_k68J6kutQVQ&t=2015) | [📄 PDF](https://datatracker.ietf.org/meeting/122/materials/slides-122-srv6ops-22-srv6-practice-in-china-telecom-00.pdf) |[IETF122](https://datatracker.ietf.org/meeting/122/session/srv6ops)|
 | China Unicom | Xinxin Yi | [▶️ Watch](https://youtu.be/QmQ8VO5ldKA?si=yUJoSgIBl54GkibY&t=1546) | [📄 PDF](https://datatracker.ietf.org/meeting/120/materials/slides-120-srv6ops-22-china-unicom-srv6-in-the-cloud-00)|[IETF120](https://datatracker.ietf.org/meeting/120/session/srv6ops)|
 | China Southern Power Grid | Jiangang Lu | [▶️ Watch](https://youtu.be/qaU-KKScK-Y?si=c5W5tmCM17msh-MH&t=1165) | [📄 PDF](https://datatracker.ietf.org/meeting/121/materials/slides-121-srv6ops-22-srv6-in-smart-grid-00.pdf)|[IETF121](https://datatracker.ietf.org/meeting/121/session/srv6ops)|
 | MTN SA | Zoltan Miklos | [▶️ Watch](https://youtu.be/PTNYIm1SVXk?si=HvZD3WZxW60EfH9R&t=366) | [📄 PDF](https://datatracker.ietf.org/meeting/119/materials/slides-119-srv6ops-mtn-south-africa-01)|[IETF119](https://datatracker.ietf.org/meeting/119/session/srv6ops)|
