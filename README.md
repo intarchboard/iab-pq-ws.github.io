@@ -1,5 +1,5 @@
-# ietf-wg-srv6ops.github.io
-The website for SRv6OPS WG
+# iab-pq-ws.github.io
+The website for IAB PQ Workshop
 
 - Edit the [index.md](./index.md) markdown file 
-- See the website at [https://ietf-wg-srv6ops.github.io/](https://ietf-wg-srv6ops.github.io/)
+- See the website at [https://iab-pq-ws.github.io/](https://iab-pq-ws.github.io/)
