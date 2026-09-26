@@ -28,12 +28,16 @@ Pujmanové 1753/10a 140 00 Praha 4-Nusle Czechia.
 
 *The office is readily accessible by public transport. The nearest metro station is Pankrác on Line C, approximately a six-minute walk from the office.*. 
 
+## 📋 Agenda
+- TBD
+
 ## 📌 Tips for the Presenter & Attendees
 - TBD
 
 
 ## 🔗 Useful Links
 - 📄 [CFP @ Datatracker](https://datatracker.ietf.org/group/pqws/about/)
+- 📚 [Accepted Papers-TBD]()
 - ✍️ [Blog](https://www.ietf.org/blog/iab-pq-workshop-cfp/)
 - 💡 [Details about IAB Workshops](https://www.iab.org/workshops/)
 - ✉️ [Mailing List-TBD]()
