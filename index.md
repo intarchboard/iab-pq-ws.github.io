@@ -38,8 +38,8 @@ Pujmanové 1753/10a 140 00 Praha 4-Nusle Czechia.
 ## 🔗 Useful Links
 - 📄 [CFP @ Datatracker](https://datatracker.ietf.org/group/pqws/about/)
 - 📚 [Accepted Papers-TBD]()
-- ✍️ [Blog](https://www.ietf.org/blog/iab-pq-workshop-cfp/)
 - 💡 [Details about IAB Workshops](https://www.iab.org/workshops/)
+- ✍️ [Blog](https://www.ietf.org/blog/iab-pq-workshop-cfp/)
 - ✉️ [Mailing List-TBD]()
 
 
