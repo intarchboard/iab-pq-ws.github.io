@@ -7,7 +7,8 @@ layout: default
 This is the webpage for the IAB PQ Workshop
 
 ## 🏛️ Workshop Venue
-There will be two different venues in Prague.
+There will be two different venues in Prague. The IAB thanks the Czech Technical University and Cisco Systems for generously offering us their space.   
+
 ### Sunday, 11 Oct
 **Faculty of Information Technology**, Czech Technical University.  
 Thákurova 7, 160 00 Praha 6, Czechia. 
