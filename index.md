@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to IAB PQ Workshop
 
-This is the webpage for the IAB PQ Workshop
+This is the webpage for the IAB Workshop on Accelerating the Deployment of Post-Quantum Authentication ([pqws](https://datatracker.ietf.org/group/pqws/about/)).
 
 ## 🏛️ Workshop Venue
 There will be two different venues in Prague. The IAB thanks the Czech Technical University and Cisco Systems for generously offering us their space.   
