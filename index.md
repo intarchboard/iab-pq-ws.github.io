@@ -16,7 +16,7 @@ Thákurova 7, 160 00 Praha 6, Czechia.
 📍[Map](https://mapy.com/s/kucozuketa). 
 🗺️ [Street View](https://mapy.com/cs/zakladni?q=Thakurova%207%2C%20praha&source=addr&id=8978533&pid=101836800&newest=1&yaw=5.850&fov=1.257&pitch=-0.226&x=14.3892511&y=50.1039637&ds=2&z=17&ovl=8). 
 
-*The venue is within walking distance of the OpenSSL Conference location.*. 
+*The venue is within walking distance of the [OpenSSL Conference location](https://openssl-conference.org/venue).*. 
 
 ### Monday, 12 Oct
 
