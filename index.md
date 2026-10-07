@@ -28,19 +28,29 @@ Pujmanové 1753/10a 140 00 Praha 4-Nusle Czechia.
 
 *The office is readily accessible by public transport. The nearest metro station is Pankrác on Line C, approximately a six-minute walk from the office.*. 
 
+## 🗄️ Format
+Two full days of discussion-focused sessions grouped broadly by topic. Sessions will have a moderator from the PC and will be organized as either a panel discussion with audience participation or a set of short presentations (10 min each) followed by a longer technical discussion. 
+
+Day 1 (Sunday) is at the Czech Technical University -- in person only, Chatham House rule applies, which means you may use the information shared, but must not reveal who said it or their affiliation.
+Day 2 (Monday) is at Cisco Systems in Prague -- with remote participants
+
 ## 📋 Agenda
 - TBD
 
 ## 📌 Tips for the Presenter & Attendees
-- TBD
+- We encourage open and robust discussions, but we also expect participants to be respectful of one another. We have all taken time from pur busy schedules to attend this event to discuss this important topic together. Professionalism and respect are important so we can maximize the value of our time together. As noted on the workshop page, the [IETF code of conduct](https://datatracker.ietf.org/doc/html/rfc7154), and the [IETF anti-harassment policy](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/) will apply. Let's also have some fun :-)
+
+- Presenters: please send your slides in advance to pq-workshop-pc@iab.org. No laptop-and-HDMI roulette on the day. If you want to make last minute changes (discouraged), please createa a datatracker account to make it easier on your session chair.
+- Everyone: read the papers for your sessions and come with the hard questions and points to discuss.
+- Join the Slack channel: pqauthiabworkshop.slack.com, if you don't have an invite, please let us know.
 
 
 ## 🔗 Useful Links
 - 📄 [CFP @ Datatracker](https://datatracker.ietf.org/group/pqws/about/)
-- 📚 [Accepted Papers-TBD]()
+- 📚 [Accepted Papers](https://datatracker.ietf.org/group/pqws/materials/)
 - 💡 [Details about IAB Workshops](https://www.iab.org/workshops/)
 - ✍️ [Blog](https://www.ietf.org/blog/iab-pq-workshop-cfp/)
-- ✉️ [Mailing List-TBD]()
+- ✉️ [Mailing List](mailto:pq-workshop-attendees@iab.org)
 
 
 ## 👥 Program Committee
