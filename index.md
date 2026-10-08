@@ -35,7 +35,132 @@ Day 1 (Sunday) is at the Czech Technical University -- in person only, Chatham H
 Day 2 (Monday) is at Cisco Systems in Prague -- with remote participants
 
 ## 📋 Agenda
-- TBD
+
+### Sunday, 11 October
+
+#### 09:00–09:30 — Welcome and introductions
+
+Arrivals, welcome and participant introductions.
+
+---
+
+#### 09:30–10:50 — National ID and Digital Identity
+
+| Time | Duration | Session | Affiliation |
+|---|---:|---|---|
+| 09:30 | 10 min | Post-quantum authentication for digital identity services in the cloud | UK Government Digital Service |
+| 09:40 | 10 min | Accelerating the Deployment of Post-Quantum Authentication | D-Trust |
+| 09:50 | 60 min | **Discussion: National ID domain** | |
+
+---
+
+#### 10:50–11:20 — Break
+
+---
+
+#### 11:20–13:20 — Performance and Embedded Systems
+
+| Time | Duration | Session | Affiliation |
+|---|---:|---|---|
+| 11:20 | 10 min | Making Post-Quantum Authentication Fit in Embedded Stacks | PQShield |
+| 11:30 | 10 min | Beyond Algorithm Choice: Initial Lessons from Preparing a Large Cloud Proxy Service for Post-Quantum Authentication | Zscaler |
+| 11:40 | 10 min | Per-record ML-DSA-65 in a synchronous write path | Aleutian AI |
+| 11:50 | 90 min | **Discussion: Performance and Embedded domain** | |
+
+---
+
+#### 13:20–14:20 — Lunch
+
+---
+
+#### 14:20–16:30 — Code Signing, Keys and Hardware
+
+| Time | Duration | Session | Affiliation |
+|---|---:|---|---|
+| 14:20 | 10 min | Package Signing with Post-Quantum Cryptography | GitHub/NPM |
+| 14:30 | 10 min | Challenges in adopting post-quantum | Siemens |
+| 14:40 | 10 min | From Signature Generation to Operational Verification: Deployment Lessons from Hybrid Post-Quantum Software Signing in CI/CD | Facti |
+| 14:50 | 10 min | Keys, Hardware, and Software/Firmware Signing | Crypto4A |
+| 15:00 | 90 min | **Discussion: Code-signing domain** | |
+
+---
+
+#### 16:30–17:00 — Wrap-up
+
+Closing summary and discussion.
+
+**End of Day 1: 17:00**
+
+---
+
+### Monday, 12 October
+
+#### 08:30–09:00 — Arrivals and welcome
+
+---
+
+#### 09:00–11:10 — Network Layer and DNS
+
+| Time | Duration | Session | Affiliation |
+|---|---:|---|---|
+| 09:00 | 10 min | How Merkle Trees Can Help Address Post-Quantum DNSSEC (and Other) Challenges | Verisign |
+| 09:10 | 10 min | Post-Quantum Login and Authentication Problems in SD-WAN | Cisco |
+| 09:20 | 10 min | Post-Quantum Authentication for BGPsec/RPKI, SRv6, and Agentic AI NetOps in Carrier Networks | Cisco |
+| 09:30 | 10 min | PQ Authentication in Optical Transport Networks: Deployment Experience and Open Questions | Adva Network Security |
+| 09:40 | 90 min | **Discussion: Network Layer and DNS** | |
+
+---
+
+#### 11:10–11:40 — Break
+
+---
+
+#### 11:40–12:40 — MTC/PLANTS Roundtable
+
+A discussion-focused roundtable bringing together perspectives on Merkle Tree Certificates, PLANTS and related approaches.
+
+Participating affiliations include:
+
+**TrustAsia, Let's Encrypt, Keyfactor, Chainguard, Google/Chromium**
+
+---
+
+#### 12:40–13:40 — Lunch
+
+---
+
+#### 13:40–15:00 — Web TLS
+
+| Time | Duration | Session | Affiliation |
+|---|---:|---|---|
+| 13:40 | 10 min | Post-Quantum Authentication for the Web | Google/Chromium |
+| 13:50 | 10 min | TLS Preflight: smaller, faster and more private handshakes | Mozilla |
+| 14:00 | 60 min | **Discussion: Web TLS** | |
+
+---
+
+#### 15:00–15:30 — Break
+
+---
+
+#### 15:30–17:50 — Enterprise Deployment and Root Migration
+
+| Time | Duration | Session | Affiliation |
+|---|---:|---|---|
+| 15:30 | 10 min | Post Quantum Authentication at Netflix | Netflix |
+| 15:40 | 10 min | Post-Quantum Authentication in Enterprise and Mobile Networks | Nokia / University of the Bundeswehr Munich |
+| 15:50 | 10 min | Post-Quantum Authentication: Preparing Digital Identity for the Quantum Era | Entrust |
+| 16:00 | 10 min | Cross-signed Cert Transition Challenges | AWS / OpenSSL |
+| 16:10 | 10 min | Lessons from a Decade of Post-Quantum Authentication | Ericsson |
+| 16:20 | 90 min | **Discussion: Enterprise Root Migration** | |
+
+---
+
+#### 17:50–18:20 — Wrap-up
+
+Closing summary and discussion.
+
+**End of Day 2: 18:20**
 
 ## 📌 Tips for the Presenter & Attendees
 - We encourage open and robust discussions, but we also expect participants to be respectful of one another. We have all taken time from pur busy schedules to attend this event to discuss this important topic together. Professionalism and respect are important so we can maximize the value of our time together. As noted on the workshop page, the [IETF code of conduct](https://datatracker.ietf.org/doc/html/rfc7154), and the [IETF anti-harassment policy](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/) will apply. Let's also have some fun :-)
