@@ -165,9 +165,9 @@ Closing summary and discussion.
 **End of Day 2: 18:20**
 
 ## 📌 Tips for the Presenter & Attendees
-- We encourage open and robust discussions, but we also expect participants to be respectful of one another. We have all taken time from pur busy schedules to attend this event to discuss this important topic together. Professionalism and respect are important so we can maximize the value of our time together. As noted on the workshop page, the [IETF code of conduct](https://datatracker.ietf.org/doc/html/rfc7154), and the [IETF anti-harassment policy](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/) will apply. Let's also have some fun :-)
+- We encourage open and robust discussions, but we also expect participants to be respectful of one another. We have all taken time from our busy schedules to attend this event to discuss this important topic together. Professionalism and respect are important so we can maximize the value of our time together. As noted on the workshop page, the [IETF code of conduct](https://datatracker.ietf.org/doc/html/rfc7154), and the [IETF anti-harassment policy](https://datatracker.ietf.org/doc/statement-iesg-ietf-anti-harassment-policy-20131103/) will apply. Let's also have some fun :-)
 
-- Presenters: please send your slides in advance to pq-workshop-pc@iab.org. No laptop-and-HDMI roulette on the day. If you want to make last minute changes (discouraged), please createa a datatracker account to make it easier on your session chair.
+- Presenters: please send your slides in advance to pq-workshop-pc@iab.org. No laptop-and-HDMI roulette on the day. If you want to make last minute changes (discouraged), please create a datatracker account to make it easier on your session chair.
 - Everyone: read the papers for your sessions and come with the hard questions and points to discuss.
 - Join the Slack channel: pqauthiabworkshop.slack.com, if you don't have an invite, please let us know.
 
