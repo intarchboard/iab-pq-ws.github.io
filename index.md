@@ -174,7 +174,7 @@ Closing summary and discussion.
 
 ## 🔗 Useful Links
 - 📄 [CFP @ Datatracker](https://datatracker.ietf.org/group/pqws/about/)
-- 📚 [Accepted Papers](https://datatracker.ietf.org/group/pqws/materials/)
+- 📚 [Accepted Papers](https://datatracker.ietf.org/group/pqws/materials/) 🗜️ [Tarball](https://pqauthiabworkshop.slack.com/files/U0C6QTPDDJA/F0C7YS56Q3X/iab-pq-auth-ws.tgz)
 - 💡 [Details about IAB Workshops](https://www.iab.org/workshops/)
 - ✍️ [Blog](https://www.ietf.org/blog/iab-pq-workshop-cfp/)
 - ✉️ [Mailing List](mailto:pq-workshop-attendees@iab.org)
