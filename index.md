@@ -178,6 +178,7 @@ Closing summary and discussion.
 - 💡 [Details about IAB Workshops](https://www.iab.org/workshops/)
 - ✍️ [Blog](https://www.ietf.org/blog/iab-pq-workshop-cfp/)
 - ✉️ [Mailing List](mailto:pq-workshop-attendees@iab.org)
+- 🖐 [Slack](https://join.slack.com/t/pqauthiabworkshop/shared_invite/zt-4bxwuu3ar-72iSuEENQugkcKpVCvkxwQ)
 
 
 ## 👥 Program Committee
