@@ -28,6 +28,8 @@ Pujmanové 1753/10a 140 00 Praha 4-Nusle Czechia.
 
 *The office is readily accessible by public transport. The nearest metro station is Pankrác on Line C, approximately a six-minute walk from the office.*. 
 
+🍽️ *Lunch on Monday is not provided (12:40–13:40). Arkády Pankrác, the shopping centre at the Pankrác metro exit, is two minutes from the office and has a food court and several restaurants (Czech, Vietnamese, sushi, salads, bakery). Please be back by 13:40.*
+
 ## 🗄️ Format
 Two full days of discussion-focused sessions grouped broadly by topic. Sessions will have a moderator from the PC and will be organized as either a panel discussion with audience participation or a set of short presentations (10 min each) followed by a longer technical discussion. 
 
@@ -125,7 +127,7 @@ Participating affiliations include:
 
 ---
 
-#### 12:40–13:40 — Lunch
+#### 12:40–13:40 — Lunch (on your own; see the venue notes above for options by Pankrác metro)
 
 ---
 
