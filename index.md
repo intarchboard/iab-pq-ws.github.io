@@ -50,7 +50,7 @@ Arrivals, welcome and participant introductions.
 
 | Time | Duration | Session | Affiliation |
 |---|---:|---|---|
-| 09:30 | 10 min | Post-quantum authentication for digital identity services in the cloud | UK Government Digital Service |
+| 09:30 | 10 min | [Post-quantum authentication for digital identity services in the cloud](https://datatracker.ietf.org/doc/slides-pqws-s22/) | UK Government Digital Service |
 | 09:40 | 10 min | [Accelerating the Deployment of Post-Quantum Authentication](https://datatracker.ietf.org/doc/slides-pqws-s36/) | D-Trust |
 | 09:50 | 60 min | **Discussion: National ID domain** | |
 
@@ -123,7 +123,7 @@ A discussion-focused roundtable bringing together perspectives on Merkle Tree Ce
 
 Participating affiliations include:
 
-**TrustAsia, Let's Encrypt, Keyfactor, Chainguard, Google/Chromium**
+**[TrustAsia](https://datatracker.ietf.org/doc/slides-pqws-s26/), [Let's Encrypt](https://datatracker.ietf.org/doc/slides-pqws-s32/), Keyfactor, [Chainguard](https://datatracker.ietf.org/doc/slides-pqws-s49/), [Google/Chromium](https://datatracker.ietf.org/doc/slides-pqws-s46/)** (links go to the position papers)
 
 ---
 
