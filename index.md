@@ -81,7 +81,7 @@ Arrivals, welcome and participant introductions.
 |---|---:|---|---|
 | 14:20 | 10 min | [Package Signing with Post-Quantum Cryptography](https://datatracker.ietf.org/doc/slides-pqws-s15/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-11-1420-github-npm/)) | GitHub/NPM |
 | 14:30 | 10 min | Challenges in adopting post-quantum ([slides](https://datatracker.ietf.org/doc/slides-pqws-11-1430-siemens/)) | Siemens |
-| 14:40 | 10 min | [From Signature Generation to Operational Verification: Deployment Lessons from Hybrid Post-Quantum Software Signing in CI/CD](https://datatracker.ietf.org/doc/slides-pqws-s08/) | Facti |
+| 14:40 | 10 min | [From Signature Generation to Operational Verification: Deployment Lessons from Hybrid Post-Quantum Software Signing in CI/CD](https://datatracker.ietf.org/doc/slides-pqws-s08/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-11-1440-facti/)) | Facti |
 | 14:50 | 70 min | **Discussion: Code-signing domain** | |
 | ~16:00 | 10 min | [Keys, Hardware, and Software/Firmware Signing](https://datatracker.ietf.org/doc/slides-pqws-s11/) | Crypto4A (moved: speaker arriving from the airport) |
 | 16:10 | 20 min | **Discussion continues** | |
