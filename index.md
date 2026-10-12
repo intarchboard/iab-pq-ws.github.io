@@ -107,8 +107,8 @@ Closing summary and discussion.
 | Time | Duration | Session | Affiliation |
 |---|---:|---|---|
 | 09:00 | 10 min | [How Merkle Trees Can Help Address Post-Quantum DNSSEC (and Other) Challenges](https://datatracker.ietf.org/doc/slides-pqws-s18/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-0900-verisign/)) | Verisign |
-| 09:10 | 10 min | Post-Quantum Login and Authentication Problems in SD-WAN | Cisco |
-| 09:20 | 10 min | Post-Quantum Authentication for BGPsec/RPKI, SRv6, and Agentic AI NetOps in Carrier Networks | Cisco |
+| 09:10 | 10 min | [Post-Quantum Login and Authentication Problems in SD-WAN](https://datatracker.ietf.org/doc/slides-pqws-s31/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-0910-cisco-sdwan/)) | Cisco |
+| 09:20 | 10 min | [Post-Quantum Authentication for BGPsec/RPKI, SRv6, and Agentic AI NetOps in Carrier Networks](https://datatracker.ietf.org/doc/slides-pqws-s29/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-0920-cisco-bgpsec/)) | Cisco |
 | 09:30 | 10 min | [PQ Authentication in Optical Transport Networks: Deployment Experience and Open Questions](https://datatracker.ietf.org/doc/slides-pqws-s25/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-0930-adva/)) | Adva Network Security |
 | 09:40 | 90 min | **Discussion: Network Layer and DNS** | |
 
@@ -136,8 +136,8 @@ Participating affiliations include:
 
 | Time | Duration | Session | Affiliation |
 |---|---:|---|---|
-| 13:40 | 10 min | [Post-Quantum Authentication for the Web](https://datatracker.ietf.org/doc/slides-pqws-s46/) | Google/Chromium |
-| 13:50 | 10 min | [TLS Preflight: smaller, faster and more private handshakes](https://datatracker.ietf.org/doc/slides-pqws-s47/) | Mozilla |
+| 13:40 | 10 min | [Post-Quantum Authentication for the Web](https://datatracker.ietf.org/doc/slides-pqws-s46/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-1340-chromium/)) | Google/Chromium |
+| 13:50 | 10 min | [TLS Preflight: smaller, faster and more private handshakes](https://datatracker.ietf.org/doc/slides-pqws-s47/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-1350-mozilla/)) | Mozilla |
 | 14:00 | 60 min | **Discussion: Web TLS** | |
 
 ---
@@ -150,8 +150,8 @@ Participating affiliations include:
 
 | Time | Duration | Session | Affiliation |
 |---|---:|---|---|
-| 15:30 | 10 min | [Post Quantum Authentication at Netflix](https://datatracker.ietf.org/doc/slides-pqws-s17/) | Netflix |
-| 15:40 | 10 min | [Post-Quantum Authentication in Enterprise and Mobile Networks](https://datatracker.ietf.org/doc/slides-pqws-s44/) | Nokia / University of the Bundeswehr Munich |
+| 15:30 | 10 min | [Post Quantum Authentication at Netflix](https://datatracker.ietf.org/doc/slides-pqws-s17/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-1530-netflix/)) | Netflix |
+| 15:40 | 10 min | [Post-Quantum Authentication in Enterprise and Mobile Networks](https://datatracker.ietf.org/doc/slides-pqws-s44/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-1540-nokia/)) | Nokia / University of the Bundeswehr Munich |
 | 15:50 | 10 min | [Post-Quantum Authentication: Preparing Digital Identity for the Quantum Era](https://datatracker.ietf.org/doc/slides-pqws-s27/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-1550-entrust/)) | Entrust |
 | 16:00 | 10 min | [Cross-signed Cert Transition Challenges](https://datatracker.ietf.org/doc/slides-pqws-s23/) | AWS / OpenSSL |
 | 16:10 | 10 min | [Lessons from a Decade of Post-Quantum Authentication](https://datatracker.ietf.org/doc/slides-pqws-s45/) | Ericsson |
