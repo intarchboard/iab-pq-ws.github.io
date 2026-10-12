@@ -154,7 +154,7 @@ Participating affiliations include:
 | 15:40 | 10 min | [Post-Quantum Authentication in Enterprise and Mobile Networks](https://datatracker.ietf.org/doc/slides-pqws-s44/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-1540-nokia/)) | Nokia / University of the Bundeswehr Munich |
 | 15:50 | 10 min | [Post-Quantum Authentication: Preparing Digital Identity for the Quantum Era](https://datatracker.ietf.org/doc/slides-pqws-s27/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-1550-entrust/)) | Entrust |
 | 16:00 | 10 min | [Cross-signed Cert Transition Challenges](https://datatracker.ietf.org/doc/slides-pqws-s23/) | AWS / OpenSSL |
-| 16:10 | 10 min | [Lessons from a Decade of Post-Quantum Authentication](https://datatracker.ietf.org/doc/slides-pqws-s45/) | Ericsson |
+| 16:10 | 10 min | [Lessons from a Decade of Post-Quantum Authentication](https://datatracker.ietf.org/doc/slides-pqws-s45/) ([slides](https://datatracker.ietf.org/doc/slides-pqws-12-1610-ericsson/)) | Ericsson |
 | 16:20 | 90 min | **Discussion: Enterprise Root Migration** | |
 
 ---
